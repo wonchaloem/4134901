@@ -9,7 +9,7 @@ const citites=new Array("Buriram",31000);
 console.log(citites[1]);
 
 //Array Medthod
-let car = cars.pop;
+let car = cars.pop();
 console.log(cars);
 cars.push("Honda");
 console.log(cars);
